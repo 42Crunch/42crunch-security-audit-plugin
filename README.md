@@ -6,4 +6,4 @@ API contracts must be in OpenAPI (aka Swagger) format. Both JSON and YAML format
 
 The extension is powered by 42Crunch API Contract Security Audit. Security Audit performs a static analysis that includes more than 200 checks on your API definitions. The audit checks the format, best practices, as well as potential vulnerabilities in the way your APIs define authentication, authorization, transport, and data coming in and going out. For more details, see [API Security Encyclopedia](https://apisecurity.io/encyclopedia/content/api-security-encyclopedia.htm).
 
-You can create a free 42Crunch account at https://platform.42crunch.com/register, and then follow the [instrructions to configure the extension](https://docs.42crunch.com/latest/content/tasks/integrate_jenkins.htm).
+You can create a free 42Crunch account at https://platform.42crunch.com/register, and then follow the [instructions to configure the extension](https://docs.42crunch.com/latest/content/tasks/integrate_jenkins.htm).
